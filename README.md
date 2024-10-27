@@ -9,10 +9,13 @@ Hello, I'm Finn and you're here on my profile. You can look around a bit. I am a
 
 ### 👨‍💻 Coding Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pyrora-finn&show_icons=true&theme=holi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+## 🪧 GitHub Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pylora&repo=github-readme-stats)](https://github.com/Pylora/tutorial-discord-bot))
 
+
+---
 ### 📫 How to reach me:
 - [Email](astro.development.de@gmail.com)
 - [Twitter](https://x.com/finn_pyrora)
