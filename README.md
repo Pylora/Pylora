@@ -13,8 +13,8 @@ Hello, I'm Finn and you're here on my profile. You can look around a bit. I am a
 ---
 ## 🪧 GitHub Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pylora&repo=tutorial-discord-bot&theme=holi)](https://github.com/Pylora/tutorial-discord-bot)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pylora&repo=tutorial-dashboard&theme=holi)](https://github.com/Pylora/tutorial-dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pylora&repo=tutorial-dashboard&theme=holi)](https://github.com/Pylora/tutorial-dashboard)
 ---
 ### 📫 How to reach me:
 - [Email](astro.development.de@gmail.com)
