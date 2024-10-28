@@ -8,7 +8,7 @@ Hello, I'm Finn and you're here on my profile. You can look around a bit. I am a
 [![My Skills](https://skillicons.dev/icons?i=discord,bots,github,windows,pycharm,phpstorm,vscode)](https://skillicons.dev)
 
 ### 👨‍💻 Coding Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pyrora-finn&show_icons=true&theme=holi)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Pylora&show_icons=true&theme=holi)
 
 ---
 ## 🪧 GitHub Repositories
